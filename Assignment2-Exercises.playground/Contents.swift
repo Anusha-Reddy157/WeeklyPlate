@@ -394,8 +394,7 @@ class Song: MediaItem {
     }
 }
 
-let movie = Movie(title: "Inception", director: "Christopher Nolan")
-let song = Song(title: "Shape of You", artist: "Ed Sheeran")
+
 
 
 
